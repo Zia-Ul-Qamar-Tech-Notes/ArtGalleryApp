@@ -3,6 +3,7 @@ package com.example.artgalleryapp
 //  App Author : Mirza Zia Ul Qamar
 //  Author Roll# : 20021519-040
 //  Author Class : BS-CS(C)-6th Semester
+//  App Name : ArtGalleryApp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
